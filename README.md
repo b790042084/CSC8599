@@ -1,3 +1,4 @@
 # CSC8599
  CourseWork
-go to the "help.doc"
+ CSC8599.zip is the projiect
+go to the "help.doc" this will help you.
